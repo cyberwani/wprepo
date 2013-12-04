@@ -1,0 +1,33 @@
+{
+  "name": "wprepo",
+  "description": "A curated library of WordPress code",
+  "version": "0.1.0",
+  "homepage": "https://github.com/wecodemore/wprepo",
+  "author": {
+    "name": "Kaiser Franz Josef",
+    "url": "http://wecodemore.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/wecodemore/wprepo"
+  },
+  "bugs": {
+    "url": "https://github.com/wecodemore/wprepo/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/wecodemore/wprepo/blob/master/LICENSE-MIT"
+    }
+  ],
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "assemble": "~0.4.0"
+  },
+  "keywords": [
+    "assemble",
+    "generate gh-pages",
+    "build gh-pages",
+    "alternative to jekyll"
+  ]
+}
